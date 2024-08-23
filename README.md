@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Software+Engineer+in+Training;Web+Development+Enthusiast;Lifelong+Learner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" />
 </p>
 
-- 🔭 Currently working on **NASA Space Apps Challenge and other personal projects**
+- 🔭 I am currently a volunteer in **NASA Space Apps Challenge Quito** and other personal projects under construction
 
 - 🌱 Actively learning **Microservices, AI/ML, and Cloud Technologies**
 
