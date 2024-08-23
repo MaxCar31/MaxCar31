@@ -5,6 +5,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Software+Engineer+in+Training;Web+Development+Enthusiast;Lifelong+Learner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" />
 </p>
 
+- 🔭 I am currently a volunteer in **NASA Space Apps Challenge Quito** and other personal projects under construction
+
+- 🌱 Actively learning **Microservices, AI/ML, and Cloud Technologies**
+
+- 👯 Looking to collaborate on **open-source projects and agile development teams**
+
+- 📫 You can reach me at **maxmateo.carrion@gmail.com**
+
+- ⚡ Fun fact: **I'm an enthusiast of psychology and emotional intelligence**
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+- **NASA Space Apps Challenge**: Developed a web application for student registration in a hackathon, including the automation of personalized emails to over 900 participants.
+
+- **Responsibility Management and Reminders System - FEPON**: Implemented a task tracking system to optimize internal communication and improve productivity at the EPN Students Federation.
+
+- **Braille Translator Website**: Created a website to translate Spanish into Braille, making information more accessible for visually impaired individuals.
+
 <h3 align="center">GitHub Stats:</h3>
 
 <p align="center">
@@ -17,18 +35,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxcar31&show_icons=true&locale=en&layout=compact" alt="maxcar31" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxcar31&show_icons=true&locale=en" alt="maxcar31" />
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxcar31&" alt="maxcar31" />
-</p>
-
-<h3 align="left">🚀 Featured Projects</h3>
-
-- **NASA Space Apps Challenge**: Developed a web application for student registration in a hackathon, including the automation of personalized emails to over 900 participants.
-
-- **Responsibility Management and Reminders System - FEPON**: Implemented a task tracking system to optimize internal communication and improve productivity at the EPN Students Federation.
-
-- **Braille Translator Website**: Created a website to translate Spanish into Braille, making information more accessible for visually impaired individuals.
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center"> 
