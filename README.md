@@ -5,17 +5,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Software+Engineer+in+Training;Web+Development+Enthusiast;Lifelong+Learner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" />
 </p>
 
-- 🔭 I am currently a volunteer in **NASA Space Apps Challenge Quito** and other personal projects under construction
+<h3 align="center">GitHub Stats:</h3>
 
-- 🌱 Actively learning **Microservices, AI/ML, and Cloud Technologies**
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MaxCar31&theme=monokai&no-frame=true&margin-w=15&margin-h=15" alt="MaxCar31's trophies" />
+  </a>
+</p>
 
-- 👯 Looking to collaborate on **open-source projects and agile development teams**
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxcar31&show_icons=true&locale=en&layout=compact" alt="maxcar31" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxcar31&show_icons=true&locale=en" alt="maxcar31" />
+</p>
 
-- 📫 You can reach me at **maxmateo.carrion@gmail.com**
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxcar31&" alt="maxcar31" />
+</p>
 
-- ⚡ Fun fact: **I'm an enthusiast of psychology and emotional intelligence**
-
-### 🚀 Featured Projects
+<h3 align="left">🚀 Featured Projects</h3>
 
 - **NASA Space Apps Challenge**: Developed a web application for student registration in a hackathon, including the automation of personalized emails to over 900 participants.
 
@@ -23,24 +30,7 @@
 
 - **Braille Translator Website**: Created a website to translate Spanish into Braille, making information more accessible for visually impaired individuals.
 
- 
-### 🌱 Currently Learning
-- **Microservices Architecture**: Exploring the construction of scalable and distributed applications.
-- **Artificial Intelligence and Machine Learning**: Fundamentals and applications in software development.
-
-### 🎯 Goals
-- **Collaborate on innovative projects** that challenge my skills and expand my knowledge.
-- **Contribute to the open-source community** and continue building my professional portfolio.
-- **Gain work experience** in an environment that fosters continuous learning and professional growth.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/max-carrion-257186172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="max-carrion-257186172" height="30" width="40" /></a>
-<a href="https://github.com/MaxCar31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="MaxCar31" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -63,21 +53,19 @@
 <a href="https://yarnpkg.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">🌱 Currently Learning</h3>
 
-<h3 align="left">GitHub Stats:</h3>
+- **Microservices Architecture**: Exploring the construction of scalable and distributed applications.
+- **Artificial Intelligence and Machine Learning**: Fundamentals and applications in software development.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MaxCar31&theme=monokai&no-frame=true&margin-w=15&margin-h=15" alt="MaxCar31's trophies" />
-  </a>
+<h3 align="left">🎯 Goals</h3>
+
+- **Collaborate on innovative projects** that challenge my skills and expand my knowledge.
+- **Contribute to the open-source community** and continue building my professional portfolio.
+- **Gain work experience** in an environment that fosters continuous learning and professional growth.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/max-carrion-257186172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="max-carrion-257186172" height="30" width="40" /></a>
+<a href="https://github.com/MaxCar31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="MaxCar31" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxcar31&show_icons=true&locale=en&layout=compact" alt="maxcar31" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxcar31&show_icons=true&locale=en" alt="maxcar31" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxcar31&" alt="maxcar31" />
-</p>
-
