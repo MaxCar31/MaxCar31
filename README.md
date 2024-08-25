@@ -60,9 +60,6 @@
 <a href="https://astro.build/" target="_blank"> <img src="https://astro.build/assets/press/astro-icon-light.svg" alt="astro" width="40" height="40"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
 <a href="https://yarnpkg.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" width="40" height="40"/> 
-</a>
 </p>
 
 <h3 align="left">🌱 Currently Learning</h3>
